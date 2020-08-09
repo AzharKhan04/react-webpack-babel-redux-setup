@@ -1,0 +1,47 @@
+{
+  "name": "react-webpack-babel-redux-setup",
+  "version": "1.0.0",
+  "description": "React with Webpack babel and redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzharKhan04/react-webpack-babel-redux-setup.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "babel",
+    "Redux"
+  ],
+  "author": "Azhar Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzharKhan04/react-webpack-babel-redux-setup/issues"
+  },
+  "homepage": "https://github.com/AzharKhan04/react-webpack-babel-redux-setup#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^4.2.1",
+    "html-webpack-plugin": "^4.3.0",
+    "sass-loader": "^9.0.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev": "^1.1.1",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
