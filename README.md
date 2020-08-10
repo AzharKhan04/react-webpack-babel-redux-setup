@@ -1,4 +1,13 @@
-#Installation
+# Features
+
+1) React (v16)
+2) Redux
+3) React-redux
+4) Webpack (v4)
+5) Babel
+
+
+# Installation
 
 Follow the below steps for setup
 
